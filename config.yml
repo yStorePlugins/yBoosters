@@ -19,6 +19,8 @@ Formatacao: 'LETRA'
 Opcoes:
   # Stackar o booster global com o booster proprio
   Stack: true
+  # Sistema de pausar o booster
+  Pausar: true
   # Actionbar do booster individual
   Actionbar: '&cBooster de &f{skill}&c, restante: &f{tempo}&c.'
   # Preço da recompensa misteriosa
